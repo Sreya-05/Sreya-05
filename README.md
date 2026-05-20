@@ -1,6 +1,6 @@
 # Hi there 👋 It's me Sreya A.
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 👩‍💻 About Me
 - 🎓 Student & Aspiring Software Developer
